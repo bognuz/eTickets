@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using eTickets.Data.Enums;
 
 namespace eTickets.Models
 {
