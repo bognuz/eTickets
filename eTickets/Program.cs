@@ -12,6 +12,7 @@ builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(buil
 //Seed Database
 
 
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
